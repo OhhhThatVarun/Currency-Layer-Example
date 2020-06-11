@@ -1,6 +1,8 @@
 # Currency Layer Example
 Android app to demonstrate usage of Currency layer API.
 
+![](https://imgur.com/IPoHnW8.png)
+
 ```
 This app uses AndroidX and coroutines.
 ```
